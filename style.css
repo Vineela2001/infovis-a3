@@ -2,4 +2,14 @@ body {
     height: 100%;
 }
 
+.brush .selection {
+    fill: orange;
+    fill-opacity: 0.3;
+    stroke: orange;
+}
+
+.brush .overlay {
+    cursor: crosshair;
+}
+
 /* YOUR CSS CODE GOES HERE */
